@@ -1,2 +1,5 @@
 # hello-world
-My learning repository
+
+Hello everyone!
+
+I am learning programming, C# and JavaScript. 
